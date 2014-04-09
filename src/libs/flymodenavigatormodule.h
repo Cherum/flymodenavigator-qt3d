@@ -3,7 +3,8 @@
 
 #include <QQmlExtensionPlugin>
 #include <QtQml>
-#include <mousemover.h>
+//#include <src/libs/mousemover.h>
+#include "mousemover.h"
 
 class FlyModeNavigatorModule : public QQmlExtensionPlugin
 {
