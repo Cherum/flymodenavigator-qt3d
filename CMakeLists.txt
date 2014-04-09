@@ -12,8 +12,6 @@ INCLUDE_DIRECTORIES(
 	${QT_PATH}
 	${QT_PATH}/QtCore
 	${QT_PATH}/QtGui
-	#${QT_PATH}/QtDeclarative
-	#${QT_PATH}/QtOpenGL
 	${QT_PATH}/Qt3D 
 	${QT_PATH}/Qt3DQuick 
 	${QT_PATH}/QtQml 
